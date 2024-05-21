@@ -1,5 +1,7 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png)
 
+## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
+### About me!
 <h1>
     <a href="https://renatobras.github.io/">
      <img align="center" alt="Logo renato bras" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
